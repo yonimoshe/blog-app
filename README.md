@@ -26,7 +26,9 @@ This project was bootstrapped with `create-next-app`.
     ```
 2ץ
 2. Install dependencies:
-   Navigate to "blog-app" with the command: cd blog-app
+   Navigate to blog app
+   cd blog-app
+
 
     ```bash
     npm install
