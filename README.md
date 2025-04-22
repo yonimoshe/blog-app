@@ -15,7 +15,7 @@ This project was bootstrapped with `create-next-app`.
 - Next.js
 - TypeScript
 - Tailwind CSS
-- React
+- ReactJS
 
 ## Installation
 
