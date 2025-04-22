@@ -24,8 +24,9 @@ This project was bootstrapped with `create-next-app`.
     ```bash
     git clone https://github.com/yonimoshe/blog-app.git
     ```
-
+2ץ
 2. Install dependencies:
+   Navigate to "blog-app" with the command: cd blog-app
 
     ```bash
     npm install
